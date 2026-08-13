@@ -1,0 +1,2 @@
+# qr-generator
+# QR Code Generator 🖼️➡️📱  A simple Python project to generate QR codes from any URL or text input.   This tool uses the `qrcode` and `Pillow` libraries to create scannable QR codes that can be saved as `.png` images.  ## ✨ Features - Generate QR codes from URLs or plain text - Save QR codes automatically as `.png` files - Lightweight and beginner‑friendly - Works on any system with Python installed  ## 🔧 Requirements - Python 3.x - Libraries:   ```bash   pip install qrcode pillow
